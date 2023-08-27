@@ -13,7 +13,6 @@
 } */
 
 .sec {
-  /* border-bottom: 1px solid #e6d6d6; */
   background: linear-gradient(to-right rgb(255, 245, 235) #e6d6d6 #ffff);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
   padding-bottom: 20px;
@@ -247,12 +246,6 @@
   box-shadow: 20px 40px 90px -5px rgba(133, 15, 15, 0.08);
 }
 
-.card-1 > h1 {
-  /* border-left:1px solid #f3f3f3;
-    border-bottom:1px solid #f3f3f3;
-    border-right:1px solid #f3f3f3; 
-    #FFCF0300, #FFCF03*/
-}
 
 .golden {
   padding-bottom: 0px;
